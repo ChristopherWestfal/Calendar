@@ -18,11 +18,13 @@ public class Calender {
 
     public static void printCalendarForMonth(String monthName) {
 
-        System.out.println(monthName);
-        System.out.println("Mo Di Mi Do Fr Sa So");
-        System.out.println(" 1  2  3  4  5  6  7");
+            System.out.println(monthName);
+            System.out.println("Mo Di Mi Do Fr Sa So");
+            System.out.println(" 1  2  3  4  5  6  7");
+            System.out.println(" 8  9 10 11 12 13 14");
 
-        System.out.println();
+
+            System.out.println();
     }
 
 }
