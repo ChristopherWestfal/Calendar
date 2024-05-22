@@ -19,6 +19,7 @@ public class Calender {
     public static void printCalendarForMonth(String monthName) {
 
         System.out.println(monthName);
+        System.out.println("Mo Di Mi Do Fr Sa So");
 
     }
 
